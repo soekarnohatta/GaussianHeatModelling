@@ -1,2 +1,2 @@
 # GaussianHeatModelling
-Another Physics Modelling
+Another Physics Modelling. MidTerm Task Fulfillment.
